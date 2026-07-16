@@ -1,0 +1,6 @@
+# This repo holds only release artifacts (attached to GitHub Releases, not committed).
+# Nothing should be built or staged here by hand. Ignore common OS/editor junk only.
+Thumbs.db
+.DS_Store
+*.swp
+*~
